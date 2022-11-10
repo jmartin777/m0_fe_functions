@@ -1,5 +1,6 @@
 // Each example below has at least one opportunity for improvement.
 
+
 // YOUR TASK:
   // Modify the code to make that improvement(s)
   // write a JS comment to explain what you changed, and why
